@@ -1,0 +1,27 @@
+{
+  "name": "parg.cxx",
+  "version": "1.0.1",
+  "description": "A header only c++ library for parsing command line arguments and generating usage/help output; Brett Robinson (2018).",
+  "keywords": [
+    "c++",
+    "library",
+    "command line",
+    "arguments",
+    "parsing",
+    "header only"
+  ],
+  "homepage": "https://github.com/nodef/parg.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/parg.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/parg.cxx.git"
+  },
+  "author": "wolfram77@gmail.com",
+  "license": "MIT-0",
+  "main": "parg.hh",
+  "scripts": {
+    "test": "bash build.sh test"
+  }
+}
