@@ -1,6 +1,6 @@
 {
   "name": "parg.cxx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A header only c++ library for parsing command line arguments and generating usage/help output; Brett Robinson (2018).",
   "keywords": [
     "c++",
